@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NedkaBlagoeva
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me nedkablagoeva@gmail.com
 
 <!---
